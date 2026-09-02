@@ -60,6 +60,7 @@ console.log(getDayType("Bandarban"))
 
 
 
+
 //Question No. 3
 
 function validateUsername (username){
