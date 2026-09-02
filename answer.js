@@ -100,6 +100,7 @@ console.log(validateUsername("Admin_Rahim"));
 
 
 
+
 //Question No. 4
 
 function getCngFare(distance, isNight = false, waitingMinutes = 0) {
